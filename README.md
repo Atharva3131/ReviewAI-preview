@@ -1,5 +1,8 @@
 # Revive AI - AI-Powered Customer Recovery Platform (Preview)
 
+![Alt text](path/to/your/R1.png)
+
+
 Revive AI is a comprehensive SaaS platform that helps businesses monitor public reviews, analyze customer conversations, predict churn risks, and take automated recovery actions to improve ratings, retention, and revenue.
 
 ## 🚀 Quick Start
