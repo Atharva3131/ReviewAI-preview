@@ -1,6 +1,12 @@
 # Revive AI - AI-Powered Customer Recovery Platform (Preview)
-
-![Alt text](path/to/your/R1.png)
+<img width="1890" height="930" alt="R1" src="https://github.com/user-attachments/assets/cbf6fd55-4e16-48d9-bb6c-7bd957694c22" />
+<img width="1865" height="874" alt="R2" src="https://github.com/user-attachments/assets/e42dbd7c-1ecb-4e25-af6d-88b5ec62dca8" />
+<img width="1885" height="932" alt="R3" src="https://github.com/user-attachments/assets/8129b962-1762-4a5e-9d15-8770987ec228" />
+<img width="1874" height="915" alt="R4" src="https://github.com/user-attachments/assets/639ae44f-2eb1-4504-91e9-d639d3986872" />
+<img width="1879" height="894" alt="R5" src="https://github.com/user-attachments/assets/99ab6b4f-730a-4044-9a14-f8af4fbae54f" />
+<img width="1874" height="923" alt="R8" src="https://github.com/user-attachments/assets/91cad3d6-f7b0-4d07-bec1-1e5c1f7f137d" />
+<img width="1885" height="943" alt="R9" src="https://github.com/user-attachments/assets/25a3d636-839e-4bc9-955e-24de99d6edd6" />
+<img width="1877" height="873" alt="R10" src="https://github.com/user-attachments/assets/61e12d31-58b0-43ee-ace9-5994171e800e" />
 
 
 Revive AI is a comprehensive SaaS platform that helps businesses monitor public reviews, analyze customer conversations, predict churn risks, and take automated recovery actions to improve ratings, retention, and revenue.
