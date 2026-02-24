@@ -208,14 +208,6 @@ Revive AI implements comprehensive security measures:
 - Recommended: Vercel or AWS CloudFront + S3
 - Environment variables must be configured in deployment platform
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests
-5. Submit a pull request
-
 ## 📝 License
 
 Proprietary License - All rights reserved
