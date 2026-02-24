@@ -4,10 +4,6 @@ Revive AI is a comprehensive SaaS platform that helps businesses monitor public 
 
 ## 🚀 Quick Start
 
-**New to the project?** Start here: [SETUP_GUIDE.md](SETUP_GUIDE.md)
-
-**Need a quick reference?** Check: [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
-
 ## ✨ Features
 
 - **Review Intelligence Engine**: Automated sentiment analysis, urgency classification, and issue categorization
@@ -123,7 +119,6 @@ ENVIRONMENT=development
 2. **Supabase**: https://supabase.com
 3. **Upstash**: https://upstash.com
 
-See [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed instructions.
 
 ## 🌐 Access Points
 
@@ -136,10 +131,7 @@ Once running:
 
 ## 📚 Documentation
 
-- [Setup Guide](SETUP_GUIDE.md) - Complete setup instructions
-- [Quick Reference](QUICK_REFERENCE.md) - Command reference and troubleshooting
 - [API Documentation](http://localhost:8000/docs) - Interactive API docs (when running)
-- [Security Audit Report](SECURITY_AUDIT_REPORT.md) - Security assessment
 - [Project Summary](PROJECT_SUMMARY.md) - Complete project overview
 
 ## 🧪 Testing
@@ -203,7 +195,6 @@ Revive AI implements comprehensive security measures:
 - Secure password hashing (bcrypt)
 - Security headers (HSTS, CSP, etc.)
 
-See [SECURITY_AUDIT_REPORT.md](SECURITY_AUDIT_REPORT.md) for details.
 
 ## 🚀 Deployment
 
@@ -231,11 +222,9 @@ Proprietary License - All rights reserved
 
 ## 🆘 Support
 
-For issues or questions:
-1. Check the [SETUP_GUIDE.md](SETUP_GUIDE.md)
-2. Review [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
-3. Check existing documentation in `/docs`
-4. Contact support team
+For complete code, issues or questions:
+
+1. Contact support team - atharva.313131@gmail.com
 
 ## 🎯 Development Status
 
@@ -271,5 +260,3 @@ For issues or questions:
 - **Well-Tested**: Comprehensive test suite with 50+ security tests
 
 ---
-
-**Ready to get started?** Follow the [SETUP_GUIDE.md](SETUP_GUIDE.md) to set up your development environment!
